@@ -60,7 +60,7 @@ export const Buttons = styled.div`
 
     @media (min-width: 600px){
         flex-direction: row;
-        margin-bottom: 90px;
+        margin-bottom: 120px;
 
         >button + button {
             margin: 0 0 0 10px;
